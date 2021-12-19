@@ -16,3 +16,9 @@
 
 ### × Contact Me:
 - Telegram: t.me/Krxyzn
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Krxyzn&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
